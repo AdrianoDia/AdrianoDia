@@ -8,7 +8,7 @@
 AdrianoDia/AdrianoDia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-oi meu nome é Adriano Dias e estou interessado em
+oi meu nome é Adriano Dias e estou interessado em ser veterinário e
 aprender cursos novos, atualmente estou aprendendo
 novas línguas, procuro colaborar em aprender novas coisas
 você pode estar entrando em contato comigo através de email andrediasfoz@gmail.com
